@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237025087451",
+    "project_id": "krokonkurence",
+    "storage_bucket": "krokonkurence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237025087451:android:6d6046d86c603f27ee21fe",
+        "android_client_info": {
+          "package_name": "com.lumi.krokonkurence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237025087451-9rih2ocvs6bd9sh1igg6l7d5nnln3d6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiyIkEe1JkKS6sKtwS4BtlUwezZT3lU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237025087451-9rih2ocvs6bd9sh1igg6l7d5nnln3d6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237025087451-upim9ja52enjsich8lrv8kp46lo6l729.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumi.krokonkurence",
+                "app_store_id": "8602066429"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
